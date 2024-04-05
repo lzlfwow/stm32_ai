@@ -1,1 +1,10 @@
+"under 256kb"
+1.https://github.com/mit-han-lab/tiny-training
+2.https://github.com/mit-han-lab/tinyengine/tree/main/tutorial/inference
+
+"使用cube.ai识别数字"
+https://github.com/colin2135/STM32G070_AI_TEST.git
+
+"手搓图像处理模型"
+https://github.com/TommyZihao/Train_Custom_Dataset
 
