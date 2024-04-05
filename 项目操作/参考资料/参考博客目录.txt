@@ -1,0 +1,8 @@
+git bash 教程
+https://blog.csdn.net/qq_36667170/article/details/79085301
+
+cube.ai项目例子
+https://blog.csdn.net/xddwg521125/article/details/135358192
+
+模型后缀介绍
+https://blog.csdn.net/u010420283/article/details/123974775
